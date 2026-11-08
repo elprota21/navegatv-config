@@ -1,0 +1,14 @@
+{
+  "anuncios": {
+    "tarjeta_inicio": { "activo": false, "imagen_url": "", "enlace": "", "titulo": "", "texto": "" },
+    "video_esquina": { "activo": false, "video_url": "", "enlace": "", "duracion_segundos": 15 },
+    "imagen_pausa": { "activo": false, "imagen_url": "", "enlace": "" }
+  },
+  "sitios_destacados": [],
+  "mensaje_global": { "texto": "", "activo": false },
+  "actualizacion": {
+    "version_minima": 2,
+    "url_apk": "https://github.com/elprota21/navegatv-config/releases/download/v1.1/NavegaTV-1.1.apk",
+    "mensaje": "Hay una versión nueva de NavegaTV: diseño nuevo, zoom, pestañas y mucho más. ¡Actualiza ahora!"
+  }
+}
