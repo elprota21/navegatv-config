@@ -7,8 +7,8 @@
   "sitios_destacados": [],
   "mensaje_global": { "texto": "", "activo": false },
   "actualizacion": {
-    "version_minima": 3,
-    "url_apk": "https://github.com/elprota21/navegatv-config/releases/download/v1.2/NavegaTV-1.2.apk",
-    "mensaje": "Nueva NavegaTV 1.2: modo YouTube sin anuncios con buscador propio y cursor nuevo de flecha de PC. ¡Actualiza ahora!"
+    "version_minima": 4,
+    "url_apk": "https://github.com/elprota21/navegatv-config/releases/download/v1.3/NavegaTV-1.3.apk",
+    "mensaje": "Nueva NavegaTV 1.3: se actualiza sola desde la app, reproductor arreglado con idiomas y calidad, sugerencias de YouTube y 6 idiomas. ¡Actualiza ahora!"
   }
 }
