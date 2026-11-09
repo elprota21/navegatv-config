@@ -7,8 +7,8 @@
   "sitios_destacados": [],
   "mensaje_global": { "texto": "", "activo": false },
   "actualizacion": {
-    "version_minima": 3,
-    "url_apk": "https://github.com/elprota21/navegatv-config/releases/download/v1.2/NavegaTV-1.2.apk",
-    "mensaje": "NavegaTV 1.2 es la versión recomendada por ahora."
+    "version_minima": 6,
+    "url_apk": "https://github.com/elprota21/navegatv-config/releases/download/v1.4/NavegaTV-1.4.apk",
+    "mensaje": "Nueva NavegaTV 1.4: arranque corregido y actualizaciones dentro de la app. ¡Actualiza ahora!"
   }
 }
